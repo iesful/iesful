@@ -1,0 +1,22 @@
+# Hello!
+
+My name is **Ivan**, I'm currently a Junior at UHCL studying **Information Technology**.
+- I have a passion for `python`
+- Gaming
+- Crime and INFOSEC podcasts
+
+As I work on medium-large sized projects, I will be uploading them to my profile.
+
+
+<a href="https://github.com/iesful/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iesful&theme=dracula" />
+</a>
+
+[![Iesful's GitHub stats](https://github-readme-stats.vercel.app/api?username=iesful&theme=dracula)](https://github.com/iesful/github-readme-stats)
+
+
+
+<!---
+iesful/iesful is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
