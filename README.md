@@ -1,9 +1,9 @@
 # Hello!
 
 My name is **Ivan**, I'm currently a Junior at UHCL studying **Information Technology**.
-- I have a passion for `python`
+- I have a passion for programming and the IT sector.
+- Crime and InfoSec podcasts
 - Gaming
-- Crime and INFOSEC podcasts
 
 As I work on medium-large sized projects, I will be uploading them to my profile.
 
