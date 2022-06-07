@@ -6,6 +6,7 @@ My name is **Ivan**, I'm currently a Junior at UHCL studying **Information Techn
 - Gaming
 
 As I work on medium-large sized projects, I will be uploading them to my profile.
+Some repositories are private and will become public as I work through them.
 
 
 <a href="https://github.com/iesful/convoychat">
