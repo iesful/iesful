@@ -1,6 +1,6 @@
 # Hello!
 
-My name is **Ivan**, I'm currently a Junior at UHCL studying **Information Technology**.
+My name is **Ivan**, I'm currently a senior at UHCL studying **Information Technology** and **CyberSecurity**.
 - I have a passion for programming and the IT sector.
 - Crime and InfoSec podcasts
 - Gaming
