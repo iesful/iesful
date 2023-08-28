@@ -13,6 +13,8 @@ Some repositories are private and will become public as I work through them.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iesful&theme=dracula" />
 </a>
 
+---
+
 [![Iesful's GitHub stats](https://github-readme-stats.vercel.app/api?username=iesful&theme=dracula)](https://github.com/iesful/github-readme-stats)
 
 
