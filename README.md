@@ -1,12 +1,15 @@
-# Hello!
+# **Hello!**
 
-My name is **Ivan**, I'm currently a senior at UHCL studying **Information Technology** and **CyberSecurity**.
-- I have a passion for programming and the IT sector.
-- Crime and InfoSec podcasts
+My name is **Ivan**, I'm currently a senior in university studying **Information Technology** and **CyberSecurity**.
+
+My hobbies include:
+- Coding
+- Podcasts
 - Gaming
+- Chess
 
-As I work on medium-large sized projects, I will be uploading them to my profile.
-Some repositories are private and will become public as I work through them.
+I will be uploading projects as I work through them.
+Some repositories are private and will become public when deemed appropriate.
 
 
 <a href="https://github.com/iesful/convoychat">
@@ -17,9 +20,3 @@ Some repositories are private and will become public as I work through them.
 
 [![Iesful's GitHub stats](https://github-readme-stats.vercel.app/api?username=iesful&theme=dracula)](https://github.com/iesful/github-readme-stats)
 
-
-
-<!---
-iesful/iesful is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
